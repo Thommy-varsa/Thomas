@@ -14,3 +14,4 @@
 
 - **Definizione**: Clonare un repository significa creare una copia locale di un repository remoto. Questo permette di lavorare su un progetto senza alterare il repository originale.
 - **Funzione**: Quando si esegue un clone, si ottiene non solo la storia del progetto, ma anche tutti i file e le directory, permettendo di lavorare offline.
+ modificato
