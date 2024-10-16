@@ -1,7 +1,6 @@
 # Thomas
 # Push e Pull
 
-"Push" e "pull" sono modi di trasferire dati o informazioni:
+- **Push**: Indica un metodo in cui i dati vengono inviati automaticamente da un server a un client. Ad esempio, le notifiche push inviate da un'app sono esempi di questo metodo, dove il server "spinge" le informazioni verso l'utente senza che questi debba richiederle.
 
-- **Push**: I dati vengono inviati automaticamente dal server al client (es. notifiche push).
-- **Pull**: Il client richiede attivamente i dati dal server (es. aggiornamento di una pagina web).
+- **Pull**: Qui, il client richiede attivamente i dati dal server. Ad esempio, quando un utente aggiorna una pagina web o scarica un file, sta eseguendo un'azione di "pull".
